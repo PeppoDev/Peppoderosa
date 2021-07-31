@@ -2,11 +2,11 @@
 
 I am Ruan Barros, aka Peppa/Peppoderosa, currently pursuing my bachelor's degree in computer science from [Universidade Federal de Alagoas](https://ufal.br/) & already graduated in IT technician by [Instituto Federal de Alagoas](https://www2.ifal.edu.br/). I am a tech enthusiast & a in love with development. I am always searching new challengers and collecting every day a new knowledge.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ruan Barros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/ruan-barros-9316371b0/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/peppa.dev/)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@ruan.nunes_85137)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:ruan.victor21052000@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:ruan.nunes@arapiraca.ufal.br)
+[![Linkedin Badge](https://img.shields.io/badge/-Ruan%20Barros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruan-barros-9316371b0/)](https://www.linkedin.com/in/ruan-barros-9316371b0/)
+[![Instagram Badge](https://img.shields.io/badge/-Peppa%20Dev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/peppa.dev/)](https://www.instagram.com/peppa.dev/)
+[![Medium Badge](https://img.shields.io/badge/-Ruan%20Barros-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ruan.nunes_85137)](https://medium.com/@ruan.nunes_85137)
+[![Gmail Badge](https://img.shields.io/badge/-main%20email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruan.victor21052000@gmail.com)](mailto:ruan.victor21052000@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-educational%20email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruan.nunes@arapiraca.ufal.br)](mailto:ruan.nunes@arapiraca.ufal.br)
 
 ## ⚡ Technologies
 
